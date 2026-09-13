@@ -1,0 +1,190 @@
+﻿category,no,name,unit,stock,price_per_unit,selling_price
+STOCK BAHAN MENTAH,1,Jahe Mix Basah,gram,0.0,35.5,47.215
+STOCK BAHAN MENTAH,2,Kunyit Basah,gram,0.0,14.8,19.684
+STOCK BAHAN MENTAH,3,Lemon Basah,gram,0.0,50.0,66.5
+STOCK BAHAN MENTAH,4,Nanas Basah,gram,0.0,25.0,33.25
+STOCK BAHAN MENTAH,5,Pandan Basah,gram,0.0,25.0,33.25
+STOCK BAHAN MENTAH,6,Sereh Basah,gram,0.0,6.0,7.98
+STOCK BAHAN KERING,7,Apple Blossom Kering,gram,838.5,168.188,223.69004
+STOCK BAHAN KERING,8,Bunga Telang Kering,gram,238.1,101.31,134.7423
+STOCK BAHAN KERING,9,Cengkeh Kering,gram,163.0,11.082,14.73906
+STOCK BAHAN KERING,10,Gula Batu,gram,703.6,8.668,11.52844
+STOCK BAHAN KERING,11,Jahe Mix Kering,gram,952.9,240,319.2
+STOCK BAHAN KERING,12,Jahe Uwuh,gram,106.0,135.0,179.55
+STOCK BAHAN KERING,13,Kapulaga Kering,gram,395.1,135.0,179.55
+STOCK BAHAN KERING,14,Kayu Manis Potong,gram,73.0,60.0,79.8
+STOCK BAHAN KERING,15,Kayu Manis Utuh,gram,0.0,60.0,79.8
+STOCK BAHAN KERING,16,Kayu Secang,gram,351.3,23.0,30.59
+STOCK BAHAN KERING,17,Kunyit Kering,gram,1.0,100,133
+STOCK BAHAN KERING,18,Lavender Kering,gram,289.0,334.99,445.5367
+STOCK BAHAN KERING,19,Lemon Kering,gram,1.0,333.3333333,443.3333333
+STOCK BAHAN KERING,20,Lemon Kering Lokal,gram,1045.8,50.0,66.5
+STOCK BAHAN KERING,21,Nanas Kering,gram,290.7,166.6666667,221.6666667
+STOCK BAHAN KERING,22,Pandan Kering,gram,8.5,166.6666667,221.6666667
+STOCK BAHAN KERING,23,Pandan Online,gram,0.0,84.0,111.72
+STOCK BAHAN KERING,24,Peppermint Kering,gram,51.0,165.0,219.45
+STOCK BAHAN KERING,25,Rosella Kering,gram,2031.8,95.0,126.35
+STOCK BAHAN KERING,26,Sereh Kering,gram,249.0,46.66666667,62.06666667
+STOCK BAHAN KERING,27,Sereh Online Uwuh,gram,52.4,95.0,126.35
+STOCK GILINGAN,28,Bunga Telang Giling,gram,1198.3,111.0,147.63
+STOCK GILINGAN,29,Jahe Merah Giling,gram,913.4,250,332.5
+STOCK GILINGAN,30,Kayu Manis Giling,gram,533.5,70.0,93.1
+STOCK GILINGAN,31,Kapulaga Giling,gram,398.7,145.0,192.85
+STOCK GILINGAN,32,Kunyit Giling,gram,1290.2,110.0,146.3
+STOCK GILINGAN,33,Lemon Giling,gram,2148.0,343.0,456.19
+STOCK GILINGAN,34,Nanas Giling,gram,475.3,177.0,235.41
+STOCK GILINGAN,35,Pandan Giling,gram,548.1,177.0,235.41
+STOCK GILINGAN,36,Peppermint Giling,gram,546.1,175.0,232.75
+STOCK GILINGAN,37,Rosella Giling,gram,462.7,105.0,139.65
+STOCK GILINGAN,38,Sereh Giling,gram,1540.5,57.0,75.81
+STOCK BUBUK,39,Reddish Wish Bubuk,gram,200.2,298.0,396.34
+STOCK BUBUK,40,Simple Purple Bubuk,gram,95.4,205.0,272.65
+STOCK BUBUK,41,Yellow Helow Bubuk,gram,419.1,145.0,192.85
+STOCK JADI,42,Kantong Yellow Helow,pcs,100.0,1168.2,1553.706
+STOCK JADI,43,Kantong Reddish Wish,pcs,300.0,1196.004829,1590.686423
+STOCK JADI,44,Kantong Simple Purple,pcs,269.0,997.3487286,1326.473809
+STOCK JADI,45,Sachet Yellow Helow,pcs,125.0,1723.2,2291.856
+STOCK JADI,46,Sachet Reddish Wish,pcs,72.0,1552.348729,2064.623809
+STOCK JADI,47,Sachet Simple Purple,pcs,66.0,1751.004829,2328.836423
+STOCK JADI,48,Pouch Yellow Helow,pcs,12.0,18724.8,24903.984
+STOCK JADI,49,Pouch Reddish Wish,pcs,12.0,16332.8822,21722.73333
+STOCK JADI,50,Pouch Simple Purple,pcs,12.0,19114.06761,25421.70992
+STOCK JADI,51,Pouch Mix and Match,pcs,9.0,19191.0,25524.03
+STOCK JADI,52,Wedang Uwuh,pcs,30.0,3150.0,4189.5
+STOCK JADI,53,Madu Uray Sachet,pcs,10.0,2125.0,2826.25
+STOCK JADI,54,Box Beauty Journey,pcs,9.0,13866.4411,18442.36666
+STOCK JADI,55,Box Healthy Journey,pcs,3.0,15062.4,20032.992
+STOCK JADI,56,Box Serenity Journey,pcs,9.0,15257.0338,20291.85496
+STOCK JADI,57,Box All Day Journey,pcs,4.0,13053.10712,17360.63246
+STOCK JADI,58,Hampers,pcs,0.0,83185.8749,110637.2136
+STOCK PACKAGING,59,Kantong Teh Polos Personal,pcs,862.0,400.0,532
+STOCK PACKAGING,60,Pouch Polos Personal,pcs,104.0,2020.0,2686.6
+STOCK PACKAGING,61,Sachet Putih Polos,pcs,824.0,200.0,266
+STOCK PACKAGING,62,Sachet Hitam Polos,pcs,397.0,300.0,399
+STOCK PACKAGING,63,Sachet Yellow Sablon,pcs,645.0,765.0,1017.45
+STOCK PACKAGING,64,Sachet Reddish Sablon,pcs,657.0,765.0,1017.45
+STOCK PACKAGING,65,Sachet Purple Sablon,pcs,1030.0,765.0,1017.45
+STOCK PACKAGING,66,Box putih 10x10,pcs,156.0,510,678.3
+STOCK PACKAGING,67,Sleeve Beauty Journey,pcs,32.0,2000.0,2660
+STOCK PACKAGING,68,Sleeve Healthy Journey,pcs,30.0,2000.0,2660
+STOCK PACKAGING,69,Sleeve Serenity journey,pcs,30.0,2000.0,2660
+STOCK PACKAGING,70,Sleeve All Day Discovery,pcs,27.0,2000.0,2660
+STOCK PACKAGING,71,Seal Bulat Transparan,lbr,10.0,1543.5,2052.855
+STOCK PACKAGING,72,Tas hampers,pcs,26.0,32700.0,43491
+STOCK STICKER,73,Sticker Kantong Yellow,pcs,656.0,11.0,14.63
+STOCK STICKER,74,Sticker Kantong Reddish,pcs,1085.0,11.0,14.63
+STOCK STICKER,75,Sticker Kantong Simple,pcs,724.0,11.0,14.63
+STOCK STICKER,76,Sticker Pouch Yellow Depan Personal,pcs,40.0,158.0,210.14
+STOCK STICKER,77,Sticker Pouch Yellow Belakang Personal,pcs,49.0,158.0,210.14
+STOCK STICKER,78,Sticker Pouch Reddish Depan Personal,pcs,53.0,158.0,210.14
+STOCK STICKER,79,Sticker Pouch Reddish Belakang Personal,pcs,64.0,158.0,210.14
+STOCK STICKER,80,Sticker Pouch Simple Depan Personal,pcs,82.0,158.0,210.14
+STOCK STICKER,81,Sticker Pouch Simple Belakang Personal,pcs,92.0,158.0,210.14
+STOCK STICKER,82,Sticker Pouch Mix Depan Personal,pcs,47.0,158.0,210.14
+STOCK STICKER,83,Sticker Pouch Mix Belakang Personal,pcs,51.0,158.0,210.14
+STOCK LAIN,84,Batre AAA,pcs,6.0,6000.0,7980
+STOCK LAIN,85,Bubble Mailer,pcs,15.0,999.0,1328.67
+STOCK LAIN,86,Bubble Wrap,pcs,AMAN,300.0,399
+STOCK LAIN,87,Concrete Sachet Reddish Wish,pcs,0.0,1742.0,2316.86
+STOCK LAIN,88,Concrete Sachet Simple Purple,pcs,0.0,1077.0,1432.41
+STOCK LAIN,89,Concrete Sachet Yellow Helow,pcs,0.0,1209.0,1607.97
+STOCK LAIN,90,Concrete Sticker Sachet Reddish,pcs,146.0,129.0,171.57
+STOCK LAIN,91,Concrete Sticker Sachet Simple,pcs,141.0,129.0,171.57
+STOCK LAIN,92,Concrete Sticker Sachet Yellow,pcs,145.0,129.0,171.57
+STOCK LAIN,93,Hair Net,pcs,17.0,440.0,585.2
+STOCK LAIN,94,Handall Stiker Tag Kantong Reddish,pcs,300.0,11.0,14.63
+STOCK LAIN,95,Handall Stiker Tag Kantong Simple,pcs,325.0,11.0,14.63
+STOCK LAIN,96,Handall Stiker Tag Kantong Yellow,pcs,124.0,11.0,14.63
+STOCK LAIN,97,Kardus Besar (Botol 2) 27.5x14.5x18.5,pcs,7.0,4000.0,5320
+STOCK LAIN,98,Kardus Hampers,pcs,7.0,5200.0,6916
+STOCK LAIN,99,Kardus Kecil (3 pouch) (Botol 8) 20x15x10,pcs,8.0,1800.0,2394
+STOCK LAIN,100,"Kardus Potato (45x35x24,5)",pcs,20.0,9000.0,11970
+STOCK LAIN,101,Kardus Sedang (100 sachet) (Botol 4) 25x13x14,pcs,7.0,3000.0,3990
+STOCK LAIN,102,Kardus Super Besar (Mangga10kg) 34x26x14,pcs,1.0,15000.0,19950
+STOCK LAIN,103,Kardus Super Kecil 20x10x8,pcs,7.0,7000.0,9310
+STOCK LAIN,104,Lakban Fragile,pcs,2.0,7000.0,9310
+STOCK LAIN,105,Kartu Nama Reddish Wish,pcs,23.0,500.0,665
+STOCK LAIN,106,Kartu Nama Simple Purple,pcs,31.0,500.0,665
+STOCK LAIN,107,Kartu Nama Yellow Helow,pcs,35.0,500.0,665
+STOCK LAIN,108,Kartu Ucapan,pcs,22.0,555.0,738.15
+STOCK LAIN,109,Lakban kertas besar,pcs,1.0,7000.0,9310
+STOCK LAIN,110,Lakban Transparan,pcs,2.0,7000.0,9310
+STOCK LAIN,111,Lakban transparan kecil,pcs,7.0,7000.0,9310
+STOCK LAIN,112,Maples Sachet Reddish,pcs,2.0,825.0,1097.25
+STOCK LAIN,113,Maples Sachet Simple,pcs,2.0,825.0,1097.25
+STOCK LAIN,114,Maples Sachet Yellow,pcs,2.0,825.0,1097.25
+STOCK LAIN,115,Maples Tag Reddish,pcs,252.0,825.0,1097.25
+STOCK LAIN,116,Maples Tag Simple,pcs,250.0,825.0,1097.25
+STOCK LAIN,117,Maples Tag Yellow,pcs,253.0,825.0,1097.25
+STOCK LAIN,118,Masker,pcs,11.0,100.0,133
+STOCK LAIN,119,Paperbag Besar 20x20x20 (7 pouch),pcs,34.0,1800.0,2394
+STOCK LAIN,120,Paperbag Kecil (13x12x16) (2 pouch),pcs,3.0,100.0,133
+STOCK LAIN,121,Pendopo Tag Purple,pcs,302.0,11.0,14.63
+STOCK LAIN,122,Pendopo Tag Reddish,pcs,305.0,11.0,14.63
+STOCK LAIN,123,Pendopo Tag Yellow,pcs,306.0,11.0,14.63
+STOCK LAIN,124,Plastik Klip Gula Batu,pcs,16.0,35.0,46.55
+STOCK LAIN,125,Plastik Klip Kantong besar,pcs,9.0,500.0,665
+STOCK LAIN,126,Plastik Klip Kantong Kecil,pcs,138.0,200.0,266
+STOCK LAIN,127,Plastik Klip Kantong Sedang,pcs,103.0,200.0,266
+STOCK LAIN,128,Plastik Klip Uwuh,pcs,3.0,300.0,399
+STOCK LAIN,129,Pouch Alumunium,pcs,50.0,282.0,375.06
+STOCK LAIN,130,Pouch Polos Family,pcs,31.0,2790.0,3710.7
+STOCK LAIN,131,Primadona Reddish Sachet,pcs,2.0,875.0,1163.75
+STOCK LAIN,132,Primadona Simple Sachet,pcs,1.0,875.0,1163.75
+STOCK LAIN,133,Primadona Stiker Tag Kantong Reddish,pcs,258.0,11.0,14.63
+STOCK LAIN,134,Primadona Stiker Tag Kantong Simple,pcs,257.0,11.0,14.63
+STOCK LAIN,135,Primadona Stiker Tag Kantong Yellow,pcs,260.0,11.0,14.63
+STOCK LAIN,136,Primadona Yellow Sachet,pcs,1.0,875.0,1163.75
+STOCK LAIN,137,Roll expired,pcs,2.0,4000.0,5320
+STOCK LAIN,138,Roll Printer,pcs,3.0,4000.0,5320
+STOCK LAIN,139,Sarung Tangan Plastik,pcs,3.0,88.0,117.04
+STOCK LAIN,140,Sarung Tangan Latex,pcs,438.0,500.0,665
+STOCK LAIN,141,Silica Gel,pcs,555.0,70.0,93.1
+STOCK LAIN,142,Thanks Card,pcs,127.0,333.0,442.89
+STOCK LAIN,143,Thinwall 1000 ml dengan tutup,pcs,6.0,1700.0,2261
+STOCK LAIN,144,Thinwall 2000 ml dengan tutup,pcs,7.0,2800.0,3724
+STOCK LAIN,145,Tissue,pck,0.0,6000.0,7980
+STOCK LAIN,146,Voucher card,pcs,730.0,197.0,262.01
+STOCK LAIN,147,Wuffy Sticker Kantong,pcs,192.0,11.0,14.63
+STOCK LAIN,148,Wuffy Reddish Kantong,pcs,0.0,995.0,1323.35
+STOCK LAIN,149,Wuffy Simple Kantong,pcs,0.0,1196.0,1590.68
+STOCK LAIN,150,Wuffy Yellow Kantong,pcs,0.0,1168.0,1553.44
+STOCK BAHAN LAIN,1,Bunga Lawang,gram,167.7,197,262.01
+STOCK BAHAN LAIN,2,Lada Hitam Utuh,gram,256.0,150.0,199.5
+STOCK BAHAN LAIN,3,Cranberry Kering,gram,493.1,144,191.52
+STOCK BAHAN LAIN,4,Kiamboy,gram,206.0,250.0,332.5
+STOCK BAHAN LAIN,5,Kelapa Kering,gram,106.0,200.0,266
+STOCK BAHAN LAIN,6,Gojiberry Kering,gram,209.0,200.0,266
+STOCK BAHAN LAIN,7,Plum Kering,gram,0.0,170.0,226.1
+STOCK BAHAN LAIN,8,Manjakani,gram,106.0,150.0,199.5
+STOCK BAHAN LAIN,9,Akar Legi,gram,305.0,100.0,133
+STOCK BAHAN LAIN,10,Jeruk Manis Kering,gram,248.2,25.0,33.25
+STOCK BAHAN LAIN,11,Jeruk Nipis Kering,gram,18.0,130,172.9
+STOCK BAHAN LAIN,12,Kencur Basah,gram,0.0,35.0,46.55
+STOCK BAHAN LAIN,13,Kencur Kering,gram,0.0,147,195.51
+STOCK BAHAN LAIN,14,Melati Kering,gram,415.0,30.0,39.9
+STOCK BAHAN LAIN,15,Strawberry Basah,gram,0.0,30.0,39.9
+STOCK BAHAN LAIN,16,Strawberry Kering,gram,89.0,360,478.8
+STOCK BAHAN LAIN,17,Teh Gardu,gram,25.0,87.5,116.375
+STOCK BAHAN LAIN,18,Teh Bandulan,gram,22.0,94.0,125.02
+STOCK BAHAN LAIN,19,Teh Naga,gram,0.0,5.0,6.65
+STOCK BAHAN LAIN,20,Temulawak Basah,gram,0.0,34.0,45.22
+STOCK BAHAN LAIN,21,Temulawak Kering,gram,63.0,142.8,189.924
+STOCK BAHAN LAIN,22,Anggur Basah,gram,0.0,60.0,79.8
+STOCK BAHAN LAIN,23,Anggur Kering,gram,86.0,402,534.66
+STOCK BAHAN LAIN,24,Apel Basah,gram,0.0,30.0,39.9
+STOCK BAHAN LAIN,25,Apel Kering,gram,0.0,210,279.3
+STOCK BAHAN LAIN,26,Daun Kelor kering,gram,82.0,150.0,199.5
+STOCK BAHAN LAIN,27,Kulit Manggis Kering,gram,0.0,100.0,133
+STOCK BAHAN LAIN,28,Mengkudu Kering,gram,90.0,100.0,133
+STOCK BAHAN LAIN,29,Teh Hijau,gram,0.0,250.0,332.5
+STOCK BAHAN LAIN,30,Jurahab,gram,98.0,100.0,133
+STOCK BAHAN LAIN,31,Daun Jati Cina,gram,18.0,250.0,332.5
+STOCK BAHAN LAIN,32,Habbatussauda,gram,94.0,150.0,199.5
+STOCK BAHAN LAIN,33,Mahkota Dewa,gram,26.0,285.0,379.05
+STOCK BAHAN LAIN,34,Daun Sirsak,gram,132.0,150.0,199.5
+STOCK BAHAN LAIN,35,Purwoceng,gram,114.0,200.0,266
+STOCK BAHAN LAIN,36,Krisan Kering,gram,40.4,430.0,571.9
+STOCK BAHAN LAIN,37,Rose Bud Kering,gram,94.0,500.0,665
+STOCK BAHAN LAIN,38,Marigold Kering,gram,51.0,600.0,798
+STOCK BAHAN LAIN,39,Kamomil Kering,gram,74.0,800.0,1064
